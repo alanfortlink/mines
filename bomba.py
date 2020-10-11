@@ -1,0 +1,2 @@
+class Bomba:
+    pass

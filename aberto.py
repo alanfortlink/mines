@@ -1,0 +1,2 @@
+class Aberto:
+    pass

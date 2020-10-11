@@ -1,0 +1,2 @@
+class Marcado:
+    pass
